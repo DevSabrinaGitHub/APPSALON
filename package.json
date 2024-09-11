@@ -1,0 +1,19 @@
+{
+  "name": "appsalon",
+  "version": "1.0.0",
+  "description": "proyecto-aplicacion-peluqueria",
+  "main": "index.js",
+  "scripts": {
+    "test": "SASS,Gulp,js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSabrinaGitHub/APPSALON.git"
+  },
+  "author": "Sabrina Arndt, Tiziano Rossi Raczkoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevSabrinaGitHub/APPSALON/issues"
+  },
+  "homepage": "https://github.com/DevSabrinaGitHub/APPSALON#readme"
+}

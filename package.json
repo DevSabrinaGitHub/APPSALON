@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "proyecto-aplicacion-peluqueria",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "gulp": "gulp"
   },
